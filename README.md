@@ -28,3 +28,5 @@ A Animated, responsive web dashboard inspired by CRED Garage — built using Nex
         npm run dev
     # 4. Open in browser
         http://localhost:3000
+
+Deployed link :  https://cred-garage-dashboard-seven.vercel.app/
